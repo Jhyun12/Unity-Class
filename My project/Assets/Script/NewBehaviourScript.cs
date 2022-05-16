@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        InvokeRepeating("AutoMove", 0, 1);
     }
 
     // Update is called once per frame
@@ -35,5 +35,21 @@ public class NewBehaviourScript : MonoBehaviour
         {
             transform.position += Vector3.right * Time.deltaTime;
         }
+
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            CancelInvoke("AutoMove");
+        }
+    }
+    
+    public void AutoMove()
+    {
+        transform.position = new Vector3(
+            Random.Range(0, 5),
+            0,
+            Random.Range(0, 5)
+            );
+
+       
     }
 }
