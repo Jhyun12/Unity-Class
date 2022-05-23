@@ -349,6 +349,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Class/Collision/Script/CharacterControll.cs"
+"Assets/Class/Instantiate/Script/Controllor.cs"
 "Assets/Class/Instantiate/Script/Create.cs"
 "Assets/Class/Instantiate/Script/Dead.cs"
 "Assets/Class/RayCast/Script/DataManager.cs"
