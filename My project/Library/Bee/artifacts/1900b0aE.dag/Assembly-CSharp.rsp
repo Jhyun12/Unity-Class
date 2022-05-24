@@ -353,6 +353,7 @@
 "Assets/Class/Instantiate/Script/Controllor.cs"
 "Assets/Class/Instantiate/Script/Create.cs"
 "Assets/Class/Instantiate/Script/Dead.cs"
+"Assets/Class/Navmesh/Script/NavControll.cs"
 "Assets/Class/RayCast/Script/DataManager.cs"
 "Assets/Class/RayCast/Script/Revolution.cs"
 "Assets/Script/NewBehaviourScript.cs"
