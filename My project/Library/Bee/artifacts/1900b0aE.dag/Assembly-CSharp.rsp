@@ -356,6 +356,7 @@
 "Assets/Class/Navmesh/Script/NavControll.cs"
 "Assets/Class/RayCast/Script/DataManager.cs"
 "Assets/Class/RayCast/Script/Revolution.cs"
+"Assets/Class/UI animation/Script/PopUp.cs"
 "Assets/Script/NewBehaviourScript.cs"
 "Assets/Script/ObjectMovement.cs"
 -langversion:9.0

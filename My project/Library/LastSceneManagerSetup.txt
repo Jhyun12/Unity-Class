@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Class/Collision/Scene/Collison ExamPle.unity
+- path: Assets/Class/Instantiate/Scene/Invoke Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
