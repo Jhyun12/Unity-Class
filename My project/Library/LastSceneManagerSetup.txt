@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Class/Cinemachine/Scene/Cinemachine Example.unity
+- path: Assets/Class/Audio System/Scene/Audio System Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
