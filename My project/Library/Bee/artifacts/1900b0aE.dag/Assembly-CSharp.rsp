@@ -352,6 +352,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Animation/Script/AnimationAction.cs"
+"Assets/Animation/Script/BlendAnimation.cs"
 "Assets/Class/Audio System/Script/SceneMove.cs"
 "Assets/Class/Audio System/Script/SoundManager.cs"
 "Assets/Class/Collision/Script/CharacterControll.cs"
