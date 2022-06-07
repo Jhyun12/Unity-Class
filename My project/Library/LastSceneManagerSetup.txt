@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Animation/Scene/Animation Example.unity
+- path: Assets/Class/Algorism/Scene/Problem Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
